@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/Api/">
+    <Project Path="api/CoreFlow.Api/CoreFlow.Api.csproj" Id="6c3a52ad-aadc-4783-953b-69cbd553d1dc" />
+  </Folder>
+  <Folder Name="/Core/">
+    <Project Path="libs/core/CoreFlow.Core.Application/CoreFlow.Core.Application.csproj" Id="389e379c-813a-408e-9d05-bdde58f478d5" />
+    <Project Path="libs/core/CoreFlow.Core.Contracts/CoreFlow.Core.Contracts.csproj" />
+    <Project Path="libs/core/CoreFlow.Core.Domain/CoreFlow.Core.Domain.csproj" Id="79d97615-db05-4240-b386-2693693982ca" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="libs/infrastructure/CoreFlow.Infrastructure.Auditing/CoreFlow.Infrastructure.Auditing.csproj" Id="de80fe22-16ba-4956-b045-b51e05e68177" />
+    <Project Path="libs/infrastructure/CoreFlow.Infrastructure/CoreFlow.Infrastructure.csproj" Id="0c6031bc-1302-4f65-92f1-3c844a5fb2b2" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="libs/shared/CoreFlow.Shared.Email/CoreFlow.Shared.Email.csproj" />
+    <Project Path="libs/shared/CoreFlow.Shared.Exceptions/CoreFlow.Shared.Exceptions.csproj" />
+    <Project Path="libs/shared/CoreFlow.Shared.Extensions/CoreFlow.Shared.Extensions.csproj" />
+    <Project Path="libs/shared/CoreFlow.Shared.Logging/CoreFlow.Shared.Logging.csproj" />
+    <Project Path="libs/shared/CoreFlow.Shared.Results/CoreFlow.Shared.Results.csproj" />
+  </Folder>
+</Solution>
